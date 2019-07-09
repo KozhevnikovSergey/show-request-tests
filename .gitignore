@@ -1,0 +1,13 @@
+__pycahe__/
+*.pyc
+.idea/
+.cache
+*.png
+*.db
+*.log
+*crmid.txt
+*Allure_run.bat
+*generate report.bat
+venv/**
+.pytest_cache/
+*.mdmp
